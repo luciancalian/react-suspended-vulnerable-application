@@ -32,9 +32,9 @@
     "blk-design-system-react"
   ],
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.6.8",
     "bootstrap": "4.5.3",
-    "chart.js": "2.9.4",
+    "chart.js": "3.0.0",
     "classnames": "2.2.6",
     "moment": "2.29.1",
     "nouislider": "14.6.3",
