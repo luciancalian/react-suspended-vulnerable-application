@@ -1,4 +1,4 @@
-FROM node:18.10.0-bullseye
+FROM node:18.20.5-bullseye
 # Needs to expose the port for the app to run on:
 EXPOSE 3000
 # Needs to expose the port for the JSON server:
